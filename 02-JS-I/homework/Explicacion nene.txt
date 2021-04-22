@@ -1,0 +1,27 @@
+Variables:
+Podes pensar a las variables como cajas, y cada caja tiene un nombre. En esas cajas vos podés poner lo que quieras
+(lápices, alfajores, juegos, etc), entonces cada vez que vos quieras referirte a alguna de esas cosas, simplemente
+usas el nombre que le diste a la caja donde los pusiste, mientras más fácil y ordenado el nombre que le pongas a tu
+caja más fácil va a ser encontrarlo en alguna lista que puedas hacer de las cajas que tenes.
+
+Strings:
+Imagínate que cada palabra en realidad no es una sola cosa sino la suma de una por una las letras que la conforman,
+algo así como deletrear donde vas anotando cada letra una a la vez. Estas letras en realidad se llaman caracteres y
+no son solo las letras del abecedario (de la a hasta la z), sino que son también los números, los símbolos (como los
+emojis),  incluso el espacio que hay entre cada palabra y la siguiente es también un carácter! Bueno, un programador
+le dice "string" (del inglés cadena) a un rejunte de estos caracteres, ya sea en una sola palabra o una oración
+completa!
+
+Funciones:
+Vendrían a ser como recetas que incluso hacen una tarea por vos, como si tuvieras la fórmula para cada cosita que
+quieras hacer, y cada vez que las necesitas están ahí para darte una mano y no solo te da la formula sino que te
+devuelven la tarea que necesitas ya hecha! Incluso podés agarrar una de estas funciones y aclararles bien lo que
+necesitas en tu tarea dándoles argumentos para lo que necesites que hagan.
+
+Declaraciones if:
+Cada vez que queramos tomar una decisión de que hacer (en el programa), usamos un if (del inglés para sí) que
+básicamente elige un camino u otro dependiendo de la condición que nosotros le "preguntemos".
+
+Valores booleanos:
+Es como la respuesta a una pregunta de si algo es verdadero o falso, y según que respuesta se nos dé, podemos
+hacer una cosa o la otra.
